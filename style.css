@@ -311,11 +311,12 @@
     margin-top: 10px;
 }
 .related {
-    
+    border-bottom: 1px solid #efeaea;
 }
 .related-title {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 25px;
 }
 .related-title-1 {
     font-size: 25px;
@@ -326,4 +327,40 @@
 }
 .related-title-2 > i {
     font-size: 13px;
+}
+.related-trai-cay {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+.related-trai-cay-1 {
+    border: 1px solid #f3efef;
+    border-radius: 5px;
+}
+.trai-cay {
+    display: flex;
+    justify-content: space-between;
+}
+.trai-cay-title {
+    font-size: 20px;
+    font-weight: 900;
+    margin-left: 8px;
+}
+.trai-cay-tym {
+    margin-right: 8px;
+}
+.trai-cay-dola {
+    color: aqua;
+    margin-bottom: 10px;
+    margin-left: 8px;
+}
+.trai-cay-danh-gia {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 8px;
+    margin-bottom: 10px;
+}
+.trai-cay-so-luong {
+    color: #999;
+    margin-right: 8px;
 }
