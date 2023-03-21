@@ -234,8 +234,45 @@
     border-radius: 5px;
     border: 1px solid rgb(25, 223, 223);
 }
-.description-2-add > button, i {
+.description-2-add > button {
     border: none ;
     background-color: #fff;
     color: rgb(25, 223, 223);
+}
+.ti-shopping-cart {
+    color: rgb(25, 223, 223);
+}
+.person-reviews {
+    margin: 80px 0;
+}
+.reviews-title {
+    display: flex;
+    justify-content: space-between;
+}
+.reviews-title-1 {
+    display: flex;
+}
+.reviews-title-11 {
+    font-size: 25px;
+    font-weight:900;
+    margin-right: 5px;
+}
+.s1 {
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.danh-gia-1 {
+    font-weight:900;
+    margin-top: 5px;
+    margin-right: 3px;
+}
+.reviews-99 {
+    color: #999;
+    margin-top: 5px;
+}
+.reviews-title-2 {
+    color: #999;
+}
+.reviews-title-2 > i {
+    font-size: 12px;
 }
