@@ -310,3 +310,20 @@
 .person-reviews {
     margin-top: 10px;
 }
+.related {
+    
+}
+.related-title {
+    display: flex;
+    justify-content: space-between;
+}
+.related-title-1 {
+    font-size: 25px;
+    font-weight: 900;
+}
+.related-title-2 {
+    color: #999;
+}
+.related-title-2 > i {
+    font-size: 13px;
+}
