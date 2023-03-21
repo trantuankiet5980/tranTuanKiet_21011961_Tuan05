@@ -404,3 +404,18 @@
     color: #fff;
     font-weight: 700;
 }
+.end-page {
+    display: flex;
+
+}
+.end-page-1 {
+    margin-right: 110px;
+}
+.end-product {
+    font-size: 25px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+.end-product-1 {
+    margin-bottom: 10px;
+}
