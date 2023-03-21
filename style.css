@@ -132,11 +132,110 @@
 }
 .product-description {
     display: flex;
+    border-bottom: 1px solid #efeaea;
 }
 .description-1 {
     flex: 5;
 }
+.description-title {
+    font-size: 25px;
+    font-weight: 900;
+    margin: 15px 0;
+}
+.description-content {
+    color: #464343;
+    margin-right: 70px;
+}
+.description-content-2 {
+    margin-top: -10px;
+    margin-bottom: 15px;
+}
+.product-thong-tin {
+    display: flex;
+}
+.thong-tin-1 {
+    margin-right: 70px
+}
+.thong-tin-11 {
+    margin: 10px 0;
+}
 .description-2 {
     flex: 2;
-    border: 1px solid #dbcdcd;
+    border: 1px solid #f3f3f3;
+}
+.des {
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+}
+.description-2-dola {
+    font-size: 25px;
+    font-weight: 900;
+    color: rgb(25, 223, 223);
+    align-self: flex-end;
+}
+.description-2-color {
+    background-color: #f0f0f0;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.description-2-color > input {
+    border: none;
+    background-color: #f0f0f0;
+    margin-right: 120px;
+}
+.description-2-size {
+    background-color: #f0f0f0;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.description-2-size > input {
+    border: none;
+    background-color: #f0f0f0;
+    margin-right: 120px;
+}
+.description-2-stt {
+    background-color: #f0f0f0;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.description-2-stt > input {
+    border: none;
+    background-color: #f0f0f0;
+    margin-right: 120px;
+}
+.description-2-total {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 12px;
+}
+.total {
+    color: #999;
+    margin-bottom: 13px;
+}
+.total-dola {
+    font-weight: 900;
+}
+.description-2-buy {
+    background-color: #f0f0f0;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(25, 223, 223);
+}
+.description-2-buy > button {
+    border: none;
+    background-color: rgb(25, 223, 223);
+    color: white
+}
+.description-2-add {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(25, 223, 223);
+}
+.description-2-add > button, i {
+    border: none ;
+    background-color: #fff;
+    color: rgb(25, 223, 223);
 }
