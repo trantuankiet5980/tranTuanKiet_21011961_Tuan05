@@ -419,3 +419,24 @@
 .end-product-1 {
     margin-bottom: 10px;
 }
+.end-lien-he {
+    margin-top: 50px;
+    display: flex;
+    margin-bottom: 20px;
+}
+.english {
+    margin-left: -100px;
+    background-color: #f3ecec;
+    padding: 5px;
+    margin-right: 400px;
+    border-radius: 5px;
+}
+.brand {
+   color: #999;
+}
+.lien-he {
+    margin-left: 300px;
+}
+.lien-he > img {
+    margin-left: 10px;
+}
